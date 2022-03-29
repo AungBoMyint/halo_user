@@ -13,7 +13,7 @@ class LoginScreen extends StatelessWidget {
       backgroundColor: scaffoldBackground,
       appBar: AppBar(
         title: Text(
-          "𝐂𝐢𝐧𝐝𝐲 Export & Fashion Clothing Brand",
+          "HALO FASHION STAR",
           style: TextStyle(
               fontSize: 16,
               fontWeight: FontWeight.bold,
